@@ -1,3 +1,3 @@
-# Carpeta de Blender
+# Organización de archivos 3D
 
-Incluye archivos de trabajo de modelado, UVs, materiales, rig y animación 3D del proyecto.
+Guarda aquí los archivos `.blend`, versiones de modelado, UVs, materiales, rig y animación. Usa nombres con versión, por ejemplo: `casa-musical_v01.blend`.

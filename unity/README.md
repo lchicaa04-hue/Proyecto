@@ -1,3 +1,3 @@
-# Carpeta Unity
+# Prototipos Unity
 
-Aquí se almacenan las escenas, scripts, UI de ritmo, prototipos y activos integrados para la experiencia interactiva del proyecto.
+Guarda aquí el proyecto o los prototipos de Unity 2022.3 LTS: escenas, scripts, UI de ritmo y pruebas de interacción.

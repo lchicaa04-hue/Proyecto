@@ -1,3 +1,3 @@
-# Renders
+# Renders y entregables
 
-Se publicarán aquí las pruebas visuales, exports de escena y renders finales del cortometraje.
+Espacio para renders, pruebas de iluminación, capturas de pantalla, videos y entregables finales. Evita subir archivos temporales o demasiado pesados sin documentarlos.
