@@ -1,3 +1,3 @@
-# Carpeta de archivos fuente de Blender
+# Carpeta de Blender
 
-Incluye modelos, UVs, materiales, rigs y escenas del cortometraje.
+Incluye archivos de trabajo de modelado, UVs, materiales, rig y animación 3D del proyecto.

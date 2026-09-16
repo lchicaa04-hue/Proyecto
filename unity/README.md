@@ -1,3 +1,3 @@
-# Carpeta de integración Unity
+# Carpeta Unity
 
-Incluye escenas, scripts, UI de ritmo, sesiones de mindfulness y configuración del proyecto.
+Aquí se almacenan las escenas, scripts, UI de ritmo, prototipos y activos integrados para la experiencia interactiva del proyecto.

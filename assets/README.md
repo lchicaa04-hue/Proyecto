@@ -1,3 +1,3 @@
-# Assets
+# Assets compartidos
 
-Recursos compartidos: referencias, audio, tipografías y materiales autorizados.
+Recursos visuales y de referencia del proyecto: moodboards, paleta, audio, archivos de referencia y otros materiales.

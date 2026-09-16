@@ -1,3 +1,3 @@
 # Renders
 
-Exportaciones de prueba y renders finales del proyecto.
+Se publicarán aquí las pruebas visuales, exports de escena y renders finales del cortometraje.

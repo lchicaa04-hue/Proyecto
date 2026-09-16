@@ -1,17 +1,22 @@
-# Tú y Yo — Proyecto
+# Proyecto
 
-Repositorio principal para la producción del cortometraje animado 3D **Tú y yo**.
+Repositorio principal del proyecto académico y de producción del cortometraje animado 3D **Tú y yo**.
 
-## Estructura
+## Organización
 
-- `docs/` — concepto, guion y documentación de producción.
-- `blender/` — archivos fuente de modelado, UVs, materiales y animación.
-- `unity/` — integración, escenas y prototipos interactivos.
-- `assets/` — referencias, audio y recursos compartidos.
-- `renders/` — renders y exportaciones finales.
+- `docs/` — conceptos, narrativa, guion y documentación.
+- `blender/` — modelado, UVs, materiales y animación 3D.
+- `unity/` — prototipos interactivos, UI, escenas y gameplay.
+- `assets/` — recursos compartidos, referencias y audios.
+- `renders/` — renders, pruebas y entregables visuales.
 
-## Información académica
+## Datos del proyecto
 
-Proyecto desarrollado por **Luna Chica Arenas** para el Tecnólogo en Animación 3D del SENA, ficha 3410924. Instructor: Roilan Galleano.
+- Autor: Luna Chica Arenas
+- Programa: Tecnólogo en Animación 3D — SENA
+- Ficha: 3410924
+- Instructor: Roilan Galleano
 
-La página pública del proyecto está disponible en el repositorio web asociado.
+## Sitio web
+
+La landing page pública del proyecto se encuentra en el repositorio `tu-y-yo-web`.
