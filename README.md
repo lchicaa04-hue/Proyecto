@@ -20,3 +20,6 @@ Repositorio principal del proyecto académico y de producción del cortometraje 
 ## Sitio web
 
 La landing page pública del proyecto se encuentra en el repositorio `tu-y-yo-web`.
+Landing Page Base del Proyecto
+
+Landing page interactiva desarrollada como parte de la estructura del proyecto web. Diseñada bajo un sistema de diseño (Design System) estructurado, optimizada para despliegue automatizado con GitHub Actions y publicada a través de GitHub Pages.
