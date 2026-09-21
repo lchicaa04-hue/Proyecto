@@ -19,7 +19,7 @@ Repositorio principal del proyecto académico y de producción del cortometraje 
 
 ## 🎯 Propósito
 
-Combatir el *doomscrolling* y la *ansiedad digital* creando un espacio seguro, musical y restaurador para usuarios de *14 a 25 años*.
+Observar la perspectiva de un joven que vive bajo la presión constante de las expectativas sociales y personales, enfrentándose a una realidad en la que vivir se ha vuelto más complejo de lo que alguna vez imaginó.”
 
 ## 📁 Estructura del Proyecto
 
