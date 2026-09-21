@@ -17,6 +17,51 @@ Repositorio principal del proyecto académico y de producción del cortometraje 
 - **Ficha:** 3410924
 - **Instructor:** Roilan Galleano
 
+## 🎯 Propósito
+
+Combatir el *doomscrolling* y la *ansiedad digital* creando un espacio seguro, musical y restaurador para usuarios de *14 a 25 años*.
+
+## 📁 Estructura del Proyecto
+
+
+mistery-house/
+├── 01-Preproduccion/        # Concept art y referencias
+├── 02-Modelado3D/           # Archivos Blender, texturas
+├── 03-UnityProject/         # Código, escenas, prefabs
+├── 04-Documentacion/        # Brief, cronograma, QA
+├── 05-Musica/               # Composiciones originales
+└── README.md
+
+
+## 👥 Equipo
+
+- *Luna Chica Arenas* — Dirección Creativa
+- *Laura Varga* — Modelado 3D
+- *Sharon Meza.* — Control de Calidad (QA)
+- *Luis Alejandro Hernandez* — Documentación
+- Nicol sofia.* — Dirección Creativa
+- * Luna Chica.* — Modelado 3D
+- * * — Artista de Materiales (PBR)
+- * Instructor.* — Control de Calidad (QA)
+- * Andrez Felipe Martinez* — Documentación
+
+
+## ⏱️ Cronograma
+
+| Etapa | Descripción | Duración |
+|-------|-------------|----------|
+| 1 | Preproducción & Concept Art | Semana 1 |
+| 2 | Modelado 3D & UVs | Semanas 2-8 |
+| 3 | Texturizado PBR & Toon Shader | Semanas 9-12 |
+| 4 | Animación & UI de Ritmo | Semanas 13-15 |
+| 5 | Render & Postproducción | Semanas 16-17 |
+
+## 🔗 Enlaces
+
+https://app.notion.com/p/TU-Y-YO-3dd3a574ed3980cb8281fc72bb5c6e46?source=copy_link
+https://discord.gg/mGRzbJyD
+
+
 ## Sitios relacionados
 
 - **Página web:** https://lchicaa04-hue.github.io/pagina-web/
