@@ -26,23 +26,23 @@ Observar la perspectiva de un joven que vive bajo la presión constante de las e
 
 ├── 01-Preproduccion/    
 
-# Concept art y referencias
+Concept art y referencias
 
 ├── 02-Modelado3D/        
 
-# Archivos Blender, texturas
+Archivos Blender, texturas
 
 ├── 03-UnityProject/     
 
-# Código, escenas, prefabs
+Código, escenas, prefabs
 
 ├── 04-Documentacion/  
 
-# Brief, cronograma, QA
+Brief, cronograma, QA
 
 ├── 05-Musica/      
 
-# Composiciones originales
+Composiciones originales
 
 └── README.md
 
