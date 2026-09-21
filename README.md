@@ -72,7 +72,7 @@ Composiciones originales
 
 ## 🔗 Enlaces
 
-- **Notion:** - ttps://app.notion.com/p/TU-Y-YO-3dd3a574ed3980cb8281fc72bb5c6e46?source=copy_link
+- **Notion:** - https://app.notion.com/p/TU-Y-YO-3dd3a574ed3980cb8281fc72bb5c6e46?source=copy_link
 
 - **Discord:** - https://discord.gg/mGRzbJyD
 
