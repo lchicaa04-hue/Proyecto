@@ -41,7 +41,6 @@ mistery-house/
 - *Luis Alejandro Hernandez* — Documentación
 - Nicol sofia.* — Dirección Creativa
 - * Luna Chica.* — Modelado 3D
-- * * — Artista de Materiales (PBR)
 - * Instructor.* — Control de Calidad (QA)
 - * Andrez Felipe Martinez* — Documentación
 
