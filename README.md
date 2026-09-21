@@ -39,8 +39,8 @@ Observar la perspectiva de un joven que vive bajo la presión constante de las e
 - *Sharon Meza.* — Control de Calidad (QA)
 - *Luis Alejandro Hernandez* — Documentación
 - *Nicol sofia.* — Dirección Creativa
-- * Instructor.* — Control de Calidad (QA)
-- * Andrez Felipe Martinez* — Documentación
+- *Instructor.* — Control de Calidad (QA)
+- *Andrez Felipe Martinez* — Documentación
 
 
 ## ⏱️ Cronograma
