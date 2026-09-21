@@ -38,8 +38,7 @@ Observar la perspectiva de un joven que vive bajo la presión constante de las e
 - *Laura Varga* — Modelado 3D
 - *Sharon Meza.* — Control de Calidad (QA)
 - *Luis Alejandro Hernandez* — Documentación
-- Nicol sofia.* — Dirección Creativa
-- * Luna Chica.* — Modelado 3D
+- *Nicol sofia.* — Dirección Creativa
 - * Instructor.* — Control de Calidad (QA)
 - * Andrez Felipe Martinez* — Documentación
 
