@@ -70,9 +70,9 @@ Composiciones originales
 
 ## 🔗 Enlaces
 
--**notion** - ttps://app.notion.com/p/TU-Y-YO-3dd3a574ed3980cb8281fc72bb5c6e46?source=copy_link
+- **Notion:** - ttps://app.notion.com/p/TU-Y-YO-3dd3a574ed3980cb8281fc72bb5c6e46?source=copy_link
 
--**discord** - https://discord.gg/mGRzbJyD
+- **Discord:** - https://discord.gg/mGRzbJyD
 
 
 ## Sitios relacionados
