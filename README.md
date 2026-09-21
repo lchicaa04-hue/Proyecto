@@ -21,6 +21,8 @@ Repositorio principal del proyecto académico y de producción del cortometraje 
 
 Observar la perspectiva de un joven que vive bajo la presión constante de las expectativas sociales y personales, enfrentándose a una realidad en la que vivir se ha vuelto más complejo de lo que alguna vez imaginó.”
 
+**Público objetivo**: Estudiantes de secundaria, universitarios y jóvenes entre 16 y 28 años.
+
 ## 📁 Estructura del Proyecto
 
 
