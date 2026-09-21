@@ -44,7 +44,7 @@ Brief, cronograma, QA
 
 Composiciones originales
 
-└── README.md
+└── 
 
 
 ## 👥 Equipo
